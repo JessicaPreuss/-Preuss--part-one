@@ -69,6 +69,9 @@ button {
     flex-direction: column;
     justify-content: space-between;
 }
+h2 {
+color: #7944e6;
+}
 .COFFEE {
     display: flex;
     flex-flow: column wrap;
